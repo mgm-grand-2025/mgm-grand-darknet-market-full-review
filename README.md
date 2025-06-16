@@ -51,4 +51,6 @@ This guide is made available only for educational and informational purposes. Th
 
 
 
-Update:  13.06.2025 04:15:29 link is up and running
+
+
+Update: Fixed unreachable url
