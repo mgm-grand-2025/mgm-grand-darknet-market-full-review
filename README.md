@@ -53,4 +53,6 @@ This guide is made available only for educational and informational purposes. Th
 
 
 
-Update: Fixed unreachable url
+
+
+Update:  17.06.2025
